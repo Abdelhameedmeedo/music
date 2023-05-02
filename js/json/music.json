@@ -1,0 +1,90 @@
+{
+    "sound":[
+        {
+            "name":"سلمان العتيبى",
+            "link":"js/json/sound/salman.mp3",
+            "type":"audio/mp3",
+            "id":"sound",
+            "class":"activate"
+        },
+        {
+            "name":"لا تحزن",
+            "link":"js/json/sound/dont-upset.mp3",
+            "type":"audio/mp3",
+            "id":"sound",
+            "class":""
+        },
+        {
+            "name":"هى الذكرى",
+            "link":"js/json/sound/its-remember.mp3",
+            "type":"audio/mp3",
+            "id":"sound",
+            "class":""
+        },
+        {
+            "name":"كن مع الله ",
+            "link":"js/json/sound/be-with-allah.mp3",
+            "type":"audio/mp3",
+            "id":"sound",
+            "class":""
+        },
+        {
+            "name":"مرت سنين",
+            "link":"js/json/sound/years-gone.mp3",
+            "type":"audio/mp3",
+            "id":"sound",
+            "class":""
+        },
+        {
+            "name":"عائد لله",
+            "link":"js/json/sound/back-to-allah.mp3",
+            "type":"audio/mp3",
+            "id":"sound",
+            "class":""
+        },
+        {
+            "name":"هلموا",
+            "link":"js/json/sound/come.mp3",
+            "type":"audio/mp3",
+            "id":"sound",
+            "class":""
+        }
+    ],
+    "videos":[
+        {
+            "name":"baby",
+            "link":"js/json/videos/baby.mp4",
+            "id":"video"
+        },
+        {
+            "name":"لو",
+            "link":"js/json/videos/if.mp4",
+            "id":"video"
+        },
+        {
+            "name":"مش بحكى",
+            "link":"js/json/videos/not talking.mp4",
+            "id":"video"
+        },
+        {
+            "name":"لا تروح بعيد",
+            "link":"js/json/videos/dont go.mp4",
+            "id":"video"
+        },
+        {
+            "name":"لا ملامة",
+            "link":"js/json/videos/no-blame.mp4",
+            "id":"video"
+        },
+        {
+            "name":"عيونك ليل",
+            "link":"js/json/videos/lile.mp4",
+            "id":"video"
+        },
+        {
+            "name":"اللى فى القلب",
+            "link":"js/json/videos/love.mp4",
+            "id":"video"
+        }
+    ]
+}
